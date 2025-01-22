@@ -14,7 +14,7 @@ export default async function TestPage() {
         {!result.success && (
           <p className="text-red-600 mt-2">
             Erro: {result.error}
-          </p>
+          </p> 
         )}
       </div>
 
