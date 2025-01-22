@@ -1,1 +1,0 @@
-toml[build]command = "npm install && npm run build"publish = ".next/static"[build.environment]NODE_VERSION = "18.18.0"NPM_VERSION = "9.8.1
